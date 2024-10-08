@@ -1,4 +1,4 @@
 ﻿streamlit==1.32.2
 streamlit-option-menu==0.3.12
-firebase-admin==6.5.0
+qrcode==7.4.2
 googletrans==4.0.0-rc1
