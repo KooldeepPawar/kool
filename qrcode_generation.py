@@ -10,7 +10,7 @@ def qrcodegeneration() :
 
     if submittbutton :
         img = qr.make(url)
-        # img.save("QR_Code.png")
+        img.save("QR_Code.png")
         st.balloons()
         st.image("QR_Code.png")
 
